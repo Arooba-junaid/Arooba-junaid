@@ -1,0 +1,6 @@
+Class FirstClass {
+    
+    public static void main(String args[]){
+        system.out.printin("My name is Arooba Junaid")
+    }
+    +}
